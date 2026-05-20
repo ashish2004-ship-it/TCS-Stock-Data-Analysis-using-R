@@ -1,7 +1,7 @@
 # TCS-Stock-Data-Analysis-using-R
 R-based financial analysis project on Tata Consultancy Services (TCS) stock data from 2006–2026, including data acquisition, visualization, ARIMA time series forecasting, and basic algorithmic trading strategies.
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on comprehensive stock market analysis of **Tata Consultancy Services (TCS)** using the R programming language. The analysis covers financial data acquisition, data cleaning, visualization, time series forecasting, and basic algorithmic trading strategies using historical stock market data from **01 January 2006 to 30 April 2026**.
 
@@ -9,7 +9,7 @@ The project is divided into four major parts to provide a structured and practic
 
 ---
 
-# 🚀 Project Objectives
+# Project Objectives
 
 * Acquire and process real-world financial stock data for TCS.
 * Perform exploratory financial data analysis.
@@ -19,9 +19,9 @@ The project is divided into four major parts to provide a structured and practic
 
 ---
 
-# 📂 Project Modules
+# Project Modules
 
-## 1️⃣ Financial Data Acquisition & Handling
+## Financial Data Acquisition & Handling
 
 This module focuses on collecting and preparing historical TCS stock data for analysis.
 
@@ -43,7 +43,7 @@ This module focuses on collecting and preparing historical TCS stock data for an
 
 ---
 
-## 2️⃣ Data Visualization
+## Data Visualization
 
 This section provides visual insights into TCS stock performance using professional financial charts created with **ggplot2**.
 
@@ -61,7 +61,7 @@ This section provides visual insights into TCS stock performance using professio
 
 ---
 
-## 3️⃣ Basic Time Series Analysis
+##  Basic Time Series Analysis
 
 This module applies statistical forecasting techniques to identify trends and future price movement patterns.
 
@@ -79,7 +79,7 @@ This module applies statistical forecasting techniques to identify trends and fu
 
 ---
 
-## 4️⃣ Algorithmic Trading
+## Algorithmic Trading
 
 This section demonstrates basic quantitative trading strategies using technical indicators.
 
@@ -99,7 +99,7 @@ This section demonstrates basic quantitative trading strategies using technical 
 
 ---
 
-# 📊 Dataset Information
+# Dataset Information
 
 * **Company:** Tata Consultancy Services (TCS)
 * **Ticker Symbol:** `TCS.NS`
@@ -116,7 +116,7 @@ This section demonstrates basic quantitative trading strategies using technical 
 
 ---
 
-# 📈 Key Outcomes
+# Key Outcomes
 
 * Built a complete financial analytics workflow in R.
 * Generated insights from historical TCS stock performance.
@@ -126,7 +126,7 @@ This section demonstrates basic quantitative trading strategies using technical 
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 This project demonstrates how R can be effectively used for stock market analysis, financial visualization, forecasting, and quantitative trading strategy development. It provides a practical foundation for financial analytics and algorithmic trading using real-world stock market data.
 
