@@ -131,7 +131,3 @@ This section demonstrates basic quantitative trading strategies using technical 
 This project demonstrates how R can be effectively used for stock market analysis, financial visualization, forecasting, and quantitative trading strategy development. It provides a practical foundation for financial analytics and algorithmic trading using real-world stock market data.
 
 ---
-
-# 👨‍💻 Author
-
-**Ashish Sali**
